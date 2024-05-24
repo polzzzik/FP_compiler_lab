@@ -70,7 +70,7 @@
 4. Укажите путь на установленный VSIX пакет
 
 > **Note:**
-> Более подробно процесс работы с VS Code расширением для языка FAST описан [здесь](./Extension/README.md)
+> Более подробно процесс работы с VS Code расширением для языка FAST описан [здесь]([./Extension/README.md](https://github.com/polzzzik/FP_compiler_lab/blob/main/extension.md))
 
 ## Архитектура языка
 
